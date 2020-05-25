@@ -3,6 +3,7 @@ package generics;
 class Building{}
 class House extends Building{}
 
+
 public class ClassTypeCapture<T>{
     Class<T> kind;
     public ClassTypeCapture(Class<T> kind){
