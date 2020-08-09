@@ -1,7 +1,5 @@
 package temp;
 
-import sun.awt.SunHints;
-
 public class Temp {
     int[][] paths;
     public int uniquePaths (int m, int n) {
